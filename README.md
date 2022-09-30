@@ -76,7 +76,8 @@ Creamos un archivo customdata.yaml con la siguiente información, y guardar en l
 
 Finalmente ejecutamos la linea de entrenamiento
 
-!python train.py --img 640 --batch 4 --epochs 100 --data customdata.yaml --weights yolov5s.pt --cache
+
+      !python train.py --img 640 --batch 4 --epochs 100 --data customdata.yaml --weights yolov5s.pt --cache
 
 
 # 5. Creamos un archivo customdata.yaml con la siguiente información, y guardar en la ruta yolov5/data
