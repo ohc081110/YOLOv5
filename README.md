@@ -42,4 +42,4 @@ https://www.python.org/downloads/
 # 3. Entrenamiento de la red neuronal.
 
 
-Seguiremos la guía del sitio oficial YoloV5
+Seguiremos la guía del sitio oficial YoloV5: https://github.com/ultralytics/yolov5
