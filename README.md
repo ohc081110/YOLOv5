@@ -28,21 +28,15 @@ https://www.python.org/downloads/
 
 --train_data
 
-
-  -- images
+  -- images  
   
+      --train      
+      
+      --val      
+      
+  -- labels  
   
-      --train
-      
-      
-      --val
-      
-      
-  -- labels
-  
-  
-      --train
-      
+      --train     
       
       --val
 
@@ -73,7 +67,7 @@ val: ../train_data/images/val/  # val images
 
 test:  # test images (optional)
 
-# Classes
+Classes
 nc: 1  # number of classes
 
 names: ['gun']  # class names
