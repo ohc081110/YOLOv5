@@ -22,6 +22,17 @@ https://www.python.org/downloads/
  
  
  python labelImg.py
+ 
+ 
+ Etiquetar el dataset y guardar usando la siguiente estructura:
+
+--train_data
+  -- images
+      --train
+      --val
+  -- labels
+      --train
+      --val
 
 
  Fuente:
