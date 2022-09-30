@@ -9,10 +9,13 @@ https://www.python.org/downloads/
  
  Requisitos: Python instalado.
  
- 1. Descarga del repositorio de labelImg. Seleccionar la ruta absoluta donde se almacenara labelImg.
+ Los siguientes pasos se realizan desde la GUI.
+ 1. Seleccionar la ruta absoluta donde se almacenara labelImg.
+ 2. Descarga del repositorio de labelImg. Descarga desde aquí: github.com/tzutalin/labelImg
+ 3. Descomprime el directorio labelImg-master (puedes renombrar este directorio).
 
 
-Descarga desde aquí: github.com/tzutalin/labelImg
+
  
  
  https://github.com/heartexlabs/labelImg
