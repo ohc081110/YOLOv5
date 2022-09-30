@@ -11,8 +11,13 @@ https://www.python.org/downloads/
  
  Los siguientes pasos se realizan desde la GUI.
  1. Seleccionar la ruta absoluta donde se almacenara labelImg.
- 2. Descarga del repositorio de labelImg. Descarga desde aquí: github.com/tzutalin/labelImg
+ 2. Descarga del directorio de labelImg. Descarga desde aquí: github.com/tzutalin/labelImg
  3. Descomprime el directorio labelImg-master (puedes renombrar este directorio).
+ 4. Instalar dependencias: pip install PyQt5, pip install lxml.
+ 5. Desde la CLI acceda a la ruta absoluta del directorio de labelImg y compile con el siguiente comando: pyrcc5 -o libs/resources.py resources.qrc
+ 6. Abriraplicación labelImg: 
+ cd C:\Users\ohc\Documents\Clase CuSur\Taller\labelImg
+ python labelImg.py
 
 
  Fuente:
