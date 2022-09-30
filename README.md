@@ -66,8 +66,11 @@ Seguiremos la guía del sitio oficial YoloV5: https://github.com/ultralytics/yol
 # 5. Creamos un archivo customdata.yaml con la siguiente información, y guardar en la ruta yolov5/data
 
 path: ../train_data  # dataset root dir
-train: ../train_data/images/train/  # train images (relative to 'path') 128 images
-val: ../train_data/images/val/  # val images (relative to 'path') 128 images
+
+train: ../train_data/images/train/  # train images 
+
+val: ../train_data/images/val/  # val images 
+
 test:  # test images (optional)
 
 # Classes
