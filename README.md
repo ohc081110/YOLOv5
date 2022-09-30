@@ -15,8 +15,12 @@ https://www.python.org/downloads/
  3. Descomprime el directorio labelImg-master (puedes renombrar este directorio).
  4. Instalar dependencias: pip install PyQt5, pip install lxml.
  5. Desde la CLI acceda a la ruta absoluta del directorio de labelImg y compile con el siguiente comando: pyrcc5 -o libs/resources.py resources.qrc
- 6. Abriraplicación labelImg: 
+ 6. Abrir aplicación labelImg: 
+
+
  cd C:\Users\ohc\Documents\Clase CuSur\Taller\labelImg
+ 
+ 
  python labelImg.py
 
 
