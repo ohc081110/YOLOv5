@@ -75,4 +75,5 @@ test:  # test images (optional)
 
 # Classes
 nc: 1  # number of classes
+
 names: ['gun']  # class names
