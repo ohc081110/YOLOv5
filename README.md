@@ -3,3 +3,5 @@
 https://www.youtube.com/watch?v=nXgxe3JM7Rc
 
 https://www.python.org/downloads/
+
+# 2. Para la descarga e instalación de labelImg analiza el siguiente vídeo...
