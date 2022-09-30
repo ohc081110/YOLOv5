@@ -27,11 +27,23 @@ https://www.python.org/downloads/
  Etiquetar el dataset y guardar usando la siguiente estructura:
 
 --train_data
+
+
   -- images
+  
+  
       --train
+      
+      
       --val
+      
+      
   -- labels
+  
+  
       --train
+      
+      
       --val
 
 
