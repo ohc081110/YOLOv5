@@ -43,3 +43,9 @@ https://www.python.org/downloads/
 
 
 Seguiremos la guía del sitio oficial YoloV5: https://github.com/ultralytics/yolov5
+
+
+# 4. Sobre el codgio del enlace anterior haremos las siguientes modificaciones
+
+
+!unzip -q ../train_data.zip -d ../
