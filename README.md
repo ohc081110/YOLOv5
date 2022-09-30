@@ -39,4 +39,7 @@ https://www.python.org/downloads/
  https://1step2learn.com/wp/en/machine-learning/install-labelimg-on-windows/
 
 
-# 3. Para la descarga e instalación de labelImg analiza la serie de pasos descrita en la fuente de esta sección.
+# 3. Entrenamiento de la red neuronal.
+
+
+Seguiremos la guía del sitio oficial YoloV5
