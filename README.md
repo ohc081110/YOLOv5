@@ -57,6 +57,8 @@ Seguiremos la guía del sitio oficial YoloV5: https://github.com/ultralytics/yol
 !unzip -q ../train_data.zip -d ../
 
 
+
+
 Creamos un archivo customdata.yaml con la siguiente información, y guardar en la ruta yolov5/data
 
 path: ../train_data  # dataset root dir
