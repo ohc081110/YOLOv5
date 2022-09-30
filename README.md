@@ -7,5 +7,6 @@ https://www.python.org/downloads/
 # 2. Para la descarga e instalación de labelImg analiza el siguiente vídeo...
  eje de git
  
+ https://github.com/heartexlabs/labelImg
  
  https://www.youtube.com/watch?v=gd-p2hJyaB8&t=116s
