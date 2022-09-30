@@ -53,7 +53,8 @@ Seguiremos la guía del sitio oficial YoloV5: https://github.com/ultralytics/yol
 
 # 4. Sobre el codigo del enlace anterior haremos las siguientes modificaciones
 
-  !unzip -q ../train_data.zip -d ../
+
+      !unzip -q ../train_data.zip -d ../
 
 
 
