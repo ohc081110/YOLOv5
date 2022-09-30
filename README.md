@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=nXgxe3JM7Rc
 
 https://www.python.org/downloads/
 
-# 2. Para la descarga e instalación de labelImg analiza la seri de pasos descrita en la fuente de esta sección.
+# 2. Para la descarga e instalación de labelImg analiza la serie de pasos descrita en la fuente de esta sección.
  
  
  Requisitos: Python instalado.
@@ -17,3 +17,6 @@ https://www.python.org/downloads/
 
  Fuente:
  https://1step2learn.com/wp/en/machine-learning/install-labelimg-on-windows/
+
+
+# 3. Para la descarga e instalación de labelImg analiza la serie de pasos descrita en la fuente de esta sección.
