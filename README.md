@@ -57,7 +57,7 @@ Seguiremos la guía del sitio oficial YoloV5: https://github.com/ultralytics/yol
 !unzip -q ../train_data.zip -d ../
 
 
-# 5. Creamos un archivo customdata.yaml con la siguiente información, y guardar en la ruta yolov5/data
+Creamos un archivo customdata.yaml con la siguiente información, y guardar en la ruta yolov5/data
 
 path: ../train_data  # dataset root dir
 
@@ -71,3 +71,12 @@ Classes
 nc: 1  # number of classes
 
 names: ['gun']  # class names
+
+
+
+Finalmente ejecutamos la linea de entrenamiento
+
+!python train.py --img 640 --batch 4 --epochs 100 --data customdata.yaml --weights yolov5s.pt --cache
+
+
+# 5. Creamos un archivo customdata.yaml con la siguiente información, y guardar en la ruta yolov5/data
